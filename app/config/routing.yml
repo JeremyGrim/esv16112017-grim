@@ -1,0 +1,4 @@
+opcache:
+    resource: "@OpcacheBundle/Controller/"
+    type:     annotation
+    prefix:   /

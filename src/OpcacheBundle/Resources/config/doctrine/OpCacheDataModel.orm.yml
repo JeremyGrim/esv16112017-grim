@@ -1,0 +1,11 @@
+OpcacheBundle\Entity\OpCacheDataModel:
+    type: entity
+    table: null
+    repositoryClass: OpcacheBundle\Repository\OpCacheDataModelRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    lifecycleCallbacks: {  }
